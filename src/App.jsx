@@ -1,6 +1,6 @@
 import { useState } from "react";
 import bgimage from './assets/pexels-matreding-12008048.jpg';
-import { Input } from './components';
+import { Input } from './components/ind';
 import useCurrencyinfo from './Hooks/useCurrencyinfo';
 
 function App() {
