@@ -16,7 +16,7 @@ function App() {
     setTo(from);
     setAmount(convertedAmount);
   };
-const setconvertedAmount=()=>{ }
+
   const backgroundimage = bgimage;
 
   return (
